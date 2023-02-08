@@ -1,1 +1,2 @@
-where am i
+#!/bin/bash
+lsr
